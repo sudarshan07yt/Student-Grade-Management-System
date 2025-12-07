@@ -1,0 +1,2 @@
+# Student-Grade-Management-System
+Concept: Store student names and marks in arrays, calculate averages, highest/lowest scores, and assign grades.  Features:  Input marks for multiple students.  Find topper and weakest student.  Sort students by marks using array sorting.  Learning: Searching, sorting, handling edge cases like duplicate marks.
